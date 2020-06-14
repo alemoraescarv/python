@@ -4,7 +4,7 @@ Dictionaries as also known as associative arrays. It consists in a collection of
 
 *Pay attention to the changes in the latest Python's version*
 
-<pre><code>
+```python
 
 #Dictionaries - a dictionary is an unordered set of key-value pairs
 dict1 = {} #creating an empty dictionary
