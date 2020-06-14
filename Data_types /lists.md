@@ -2,8 +2,7 @@
 
 Lists are ordered sequence of elements which are **mutable**, [link](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists).
 
-
-<pre><code>
+```python
 #Numbers
 num1 = 10
 num2 = 2.5
