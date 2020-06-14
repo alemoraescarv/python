@@ -2,7 +2,7 @@
 
 The basic syntax for conditional clauses. 
 
-```
+```python
 #If / Elif / Else conditionals - executing code in an expression evaluation as True or False; the "elif" and "else" clauses are optional
 x = 7
  
