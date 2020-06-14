@@ -1,8 +1,0 @@
-#Request the user's input
-input("Enter the string you want to be printed out: ")
-
-#Second option
-#Saving the input in a variable
-var_input = input("Enter the string you want to be printed out: ")
-
- 
