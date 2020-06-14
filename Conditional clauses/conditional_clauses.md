@@ -2,6 +2,7 @@
 
 The basic syntax for conditional clauses. 
 
+<pre><code>
 #If / Elif / Else conditionals - executing code in an expression evaluation as True or False; the "elif" and "else" clauses are optional
 x = 7
  
@@ -11,3 +12,5 @@ elif x == 5: #...if the "x == 5" expression is evaluated as True, the code inden
     print("x IS 5")
 else: #this covers all situations not covered by the "if" and "elif" clauses; the "else" clause, if present, is always the last clause in the code block
     print("x is NOT greater than 5" )
+
+</code></pre>
