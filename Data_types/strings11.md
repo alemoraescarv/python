@@ -1,3 +1,6 @@
+
+
+
 #Defining a string on multiple lines, using triple quotes and the line continuation character ( \ )
 my_string = '''My/ first/ string'''
  
