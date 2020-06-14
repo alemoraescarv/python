@@ -3,7 +3,7 @@
 Tuples are sequences just like lists and a tuple is also immutable. While with lists parentheses are used, with tuples brackets are used.[LINK](https://docs.python.org/3.3/tutorial/datastructures.html#tuples-and-sequences)
 
 
-<pre><code>
+```python
 
 #Tuples - immutable lists (their contents cannot be changed by adding, removing or replacing elements)
 tuple = () #creating an empty tuple
@@ -41,4 +41,4 @@ tuple * 20 #tuple multiplication
  
 del tuple #deleting a tuple
 
-</code></pre>
+```
