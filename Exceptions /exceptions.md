@@ -3,7 +3,7 @@
 *Attention:* The syntax for exception handling has changed in Python 3. Thus, make sure you are using Python 3 to properly use the syntax below.
 Below 'ZeroDivisionError' is used, but it is possible to customise the error it will be handled.
 
-<pre><code>
+```python
 #Handling an exception: telling Python to keep executing the rest of the lines of code in the program
 #"try" clause you insert the code that you think might generate an exception at some point
 try:
@@ -17,4 +17,4 @@ finally:
  
 #result of the above block
 #Division Error!
-</code></pre>
+```
