@@ -4,7 +4,7 @@
 
 *Attention for the diffenrece between Python 2 and Python 3 (it is advisable to use Python 3)*
 
-<pre><code>
+```python
 
 #Ranges - unlike in Python 2, where the range() function returned a list, in Python 3 it returns an iterator; cannot be sliced
 range1 = range(9)   #defining a range
