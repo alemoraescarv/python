@@ -2,7 +2,7 @@
 
 This topic is very extense. I will just present the basics of file operations. You can find more at: [link](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files).
 
-```
+```python
 myfile = open("routers.txt", "r") #"r" is the file access mode for reading and it is the default mode when opening a file
  
 #Files - opening and reading a file in another directory/folder on Windows
@@ -40,3 +40,5 @@ newfile.close() #closing a file
  
 with open("python.txt", "w") as f: #using the with-as solution, the files gets closed automatically, without needing the close() method
     f.write("Hello Python!\n")
+     
+   ```
