@@ -3,7 +3,7 @@
 Different from lists, Set is a unordered collection of elements which are **interable, mutable and it does not have duplicate elememts.**[LINK](https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset)
 Whereas, the only difference to FrozenSet is that it is immutable.
 
-<pre><code>
+```python
 
 #Sets - unordered collections of unique elements
 set1 = {"1.1.1.1", "2.2.2.2", "3.3.3.3", "4.4.4.4"} #creating a set
