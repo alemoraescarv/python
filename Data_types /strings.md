@@ -122,5 +122,5 @@ a = "Tree"
 "Cisco model: {}, {} WAN slots, IOS {}".format("2600XM", 2, 12.4)
 "Cisco model: {0}, {1} WAN slots, IOS {2}".format("2600XM", 2, 12.4)
 
-</code></pre>
+```
 
