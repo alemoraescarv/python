@@ -1,7 +1,7 @@
 ### Regex expressions
 
 
-```
+```python
 #"re.match" and "re.search" methods
 a = re.match(pattern, string, optional flags) #general match syntax; "a" is called a match object if the pattern is found in the string, otherwise "a" will be None
  
