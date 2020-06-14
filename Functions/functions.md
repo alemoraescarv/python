@@ -2,7 +2,7 @@
 
 
 
-```
+```python
 #defining a function that takes two parameters
 def my_first_function(x, y): 
     sum = x + y
