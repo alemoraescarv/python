@@ -4,7 +4,7 @@ All the below methods were taken from the [documentation](https://docs.python.or
 
 *Some methods such as {}.format are very useful when coding complex logics.*
 
-<pre><code>
+```python
 #Defining a string on multiple lines, using triple quotes and the line continuation character ( \ )
 my_string = '''My/ first/ string'''
  
